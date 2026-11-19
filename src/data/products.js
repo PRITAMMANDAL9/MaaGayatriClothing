@@ -1,0 +1,16 @@
+export const products = [
+ {id:1,name:'Noor Floral Anarkali',category:'Ethnic Wear',price:2499,oldPrice:3299,badge:'Bestseller',color:'Rose',sizes:['S','M','L','XL'],image:'https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=85',description:'A graceful printed Anarkali crafted for celebrations, intimate gatherings and memorable evenings.'},
+ {id:2,name:'Ivory Grace Co-ord Set',category:'Co-ord Sets',price:1899,oldPrice:2499,badge:'New',color:'Ivory',sizes:['S','M','L','XL'],image:'https://images.unsplash.com/photo-1583391733956-6c78276477e8?auto=format&fit=crop&w=900&q=85',description:'An effortlessly polished co-ord set with a relaxed silhouette and refined detailing.'},
+ {id:3,name:'Meher Embroidered Suit',category:'Ethnic Wear',price:2899,oldPrice:3599,badge:'Limited',color:'Maroon',sizes:['S','M','L','XL'],image:'https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=900&q=85',description:'A rich festive suit featuring delicate embroidery and a flattering, timeless fit.'},
+ {id:4,name:'Saanvi Everyday Kurta',category:'Kurtas',price:1199,oldPrice:1599,badge:'Everyday pick',color:'Sage',sizes:['S','M','L','XL','XXL'],image:'https://images.unsplash.com/photo-1597983073493-88cd35cf93b0?auto=format&fit=crop&w=900&q=85',description:'A versatile kurta designed to bring comfort and understated elegance to everyday dressing.'},
+ {id:5,name:'Gulabi Festive Saree',category:'Sarees',price:3499,oldPrice:4299,badge:'Bestseller',color:'Pink',sizes:['Free Size'],image:'https://images.unsplash.com/photo-1610189012906-4c9f2b2d2b2b?auto=format&fit=crop&w=900&q=85',description:'A statement drape for celebrations, finished with a soft sheen and elegant border.'},
+ {id:6,name:'Aarohi Printed Dress',category:'Dresses',price:1699,oldPrice:2199,badge:'New',color:'Blue',sizes:['S','M','L','XL'],image:'https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=900&q=85',description:'A breezy printed dress that moves easily from brunch plans to relaxed evenings.'},
+ {id:7,name:'Ruhani Classic Kurta Set',category:'Kurtas',price:2199,oldPrice:2799,badge:'Popular',color:'Mustard',sizes:['S','M','L','XL'],image:'https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=900&q=85',description:'A classic kurta set with thoughtful details and a comfortable all-day silhouette.'},
+ {id:8,name:'Ziya Occasion Gown',category:'Dresses',price:3199,oldPrice:3999,badge:'Occasion wear',color:'Wine',sizes:['S','M','L','XL'],image:'https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=900&q=85',description:'A contemporary occasion silhouette made for evenings worth dressing up for.'}
+];
+export const categories = [
+ {name:'Ethnic Wear',image:'https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=85'},
+ {name:'Kurtas',image:'https://images.unsplash.com/photo-1597983073493-88cd35cf93b0?auto=format&fit=crop&w=900&q=85'},
+ {name:'Sarees',image:'https://images.unsplash.com/photo-1610189012906-4c9f2b2d2b2b?auto=format&fit=crop&w=900&q=85'},
+ {name:'Dresses',image:'https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=900&q=85'}
+];
